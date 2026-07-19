@@ -2,12 +2,10 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/
-Java-ED8B00style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Algorithm Analysis](https://img.shields.io/badge/Algorithm%20Analysis-0078D4?style=for-the-badge)
 ![Completed](https://img.shields.io/badge/Status-Completed-32CD32?style=for-the-badge)
-![Week 4](https://img.shields.io/badge/Week-4
--8A2BE2?style=for-the-badge)
+![Week 4](https://img.shields.io/badge/Week-4-8A2BE2?style=for-the-badge)
 ![KCC](https://img.shields.io/badge/KCC%20Institute%20of%20Technology%20and%20Management-E53935?style=for-the-badge)
 
 # 📊 Algorithm Analysis & Complexity
